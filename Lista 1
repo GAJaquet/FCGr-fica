@@ -1,0 +1,4 @@
+1- Se trata de uma linguagem de programação de shading baseada em C. Vertex Shader e Fragment Shader.
+2- São os elementos básicos dos gráficos/desenhos os quais permitem que sejam construídos outros objetos mais complexos. Utilizando o Vertex Buffer Objects, sendo buffers que mantêm dados relacionados a vértices.
+3- VBO  é utilizado para armazenar os dados de vértices, VAO é utilizado para armazenar os atributos de vértices e EBO é utilizado para armazenar os índices que indicam a conectividade entre vértices. O VAO pode referenciar vários VBO e EBO, ainda agrupando todas informações para desenhar um objeto gráfico único.
+4- ...
